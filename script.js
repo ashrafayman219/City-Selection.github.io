@@ -18,7 +18,7 @@ require([
 ],
     function (esriConfig,Map,MapView, BasemapGallery, AreaMeasurement2D, Expand, FeatureLayer, WebMap, esriRequest, Graphic, GraphicsLayer, Legend) {
 
-        esriConfig.apiKey = "AAPK1d2d85bfebac4fe4a7f684a32f1d9d0clLf_gEmnKk6-YVFwOy-fcQdrFFpvyQmiPbf-5BqA9oQXPsXDV9J4n8Y0dFS6g4PR";
+        esriConfig.apiKey = "AAPKe96926c67dfd4afb80185e0a1020deafnvFzsj9yYBaj80DS9MWNWPGhkV_K-kXKNIkOzspRqvQ4fQkbcRrhPVfkFafbB1zt";
         esriConfig.portalUrl = "https://iti51b4ea2045821.maps.arcgis.com"
 
         google.charts.load("current", {packages:["corechart"]});
